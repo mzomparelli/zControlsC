@@ -1,0 +1,17 @@
+J:\SourceCode\C#\zControlsC\zControlsC\bin\x86\Release\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\x86\Release\zControlsC.pdb
+J:\SourceCode\C#\zControlsC\zControlsC\bin\x86\Release\C1.C1Excel.2.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\ResolveAssemblyReference.cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.Charts.zLineChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.Charts.zMapChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.Form1.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.Properties.Resources.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.UI_Controls.InputBox.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.UI_Controls.zLabel.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.UI_Controls.zNavigatorTree.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.UI_Controls.zQueryFilter.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.csproj.GenerateResource.Cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.dll.licenses
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\x86\Release\zControlsC.pdb

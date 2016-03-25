@@ -1,0 +1,239 @@
+Afghanistan,4.5,1
+Albania,1,1
+Algeria,1,0
+American Samoa,-11,1
+Andorra,1,1
+Angola,1,0
+Antarctica,-2,0
+Antigua and Barbuda,-4,1
+Argentina,-3,0
+Armenia,4,1
+Aruba,-4,0
+Ascension,0,1
+Australia East,10,1
+Australia North,9.5,1
+Australia South,10,1
+Australia West,8,1
+Austria,1,1
+Azerbaijan,3,1
+Bahamas,-5,1
+Bahrain,3,0
+Bangladesh,6,0
+Barbados,-4,0
+Belarus,2,1
+Belgium,1,1
+Belize,-6,0
+Benin,1,0
+Bermuda,-4,1
+Bhutan,6,0
+Bolivia,-4,1
+Bosnia Herzegovina,1,1
+Botswana,2,0
+Brazil East,-3,1
+Brazil West,-4,1
+British Virgin Islands,-4,1
+Brunei,8,0
+Bulgaria,2,1
+Burkina Faso,0,0
+Burundi,2,0
+Cambodia,7,0
+Cameroon,1,0
+Canada Central,-6,1
+Canada Eastern,-5,1
+Canada Mountain,-7,1
+Canada Newfoundland,-3.5,1
+Canada Pacific,-8,1
+Cape Verde,-1,0
+Cayman Islands,-5,0
+Central African Rep,1,0
+Chad Rep,1,0
+Chile,-4,1
+China,8,0
+Christmas Is.,-10,0
+Colombia,-5,0
+Congo,1,0
+Cook Is.,-10,0
+Costa Rica,-6,0
+Croatia,1,1
+Cuba,-5,1
+Cyprus,2,1
+Czech Republic,1,1
+Denmark,1,1
+Djibouti,3,0
+Dominica,-4,0
+Dominican Republic,-4,0
+Ecuador,-5,0
+Egypt,2,1
+El Salvador,-6,0
+Equatorial Guinea,1,0
+Eritrea,3,0
+Estonia,2,1
+Ethiopia,3,0
+Faeroe Islands,0,1
+Falkland Islands,-4,1
+Fiji Islands,12,0
+Finland,2,1
+France,1,1
+French Antilles (Martinique),-3,1
+French Guinea,-3,1
+French Polynesia,-10,1
+Gabon Republic,1,0
+Gambia,0,0
+Georgia,4,0
+Germany,1,1
+Ghana,0,0
+Gibraltar,1,1
+Greece,2,1
+Greenland,-3,1
+Grenada,-4,0
+Guadeloupe,-4,1
+Guam,10,1
+Guatemala,-6,0
+Guinea,0,0
+Guinea-Bissau,0,0
+Guyana,-3,0
+Haiti,-5,0
+Honduras,-6,0
+Hong Kong,8,0
+Hungary,1,1
+Iceland,0,0
+India,5.5,0
+Indonesia Central,8,0
+Indonesia East,9,0
+Indonesia West,7,0
+Iran,3.5,0
+Iraq,3,1
+Ireland,0,1
+Israel,2,1
+Italy,1,1
+Jamaica,-5,0
+Japan,9,0
+Jordan,2,1
+Kazakhstan,6,0
+Kenya,3,0
+Kiribati,12,1
+Kuwait,3,0
+Kyrgyzstan,5,0
+Laos,7,0
+Latvia,2,1
+Lebanon,2,1
+Lesotho,2,0
+Liberia,0,0
+Libya,2,0
+Liechtenstein,1,1
+Lithuania,2,1
+Luxembourg,1,1
+Macedonia,1,1
+Madagascar,3,0
+Malawi,2,0
+Malaysia,8,0
+Maldives,5,0
+Mali Republic,0,0
+Malta,1,1
+Marshall Islands,12,1
+Mauritania,0,0
+Mauritius,4,0
+Mayotte,3,1
+Mexico Central,-6,1
+Mexico East,-5,1
+Mexico West,-7,1
+Moldova,2,1
+Monaco,1,1
+Mongolia,8,0
+Morocco,0,0
+Mozambique,2,0
+Myanmar,6.5,0
+Namibia,1,1
+Nauru,12,1
+Nepal,5.5,0
+Netherlands,1,1
+Netherlands Antilles,-4,1
+New Caledonia,11,1
+New Zealand,12,1
+Nicaragua,-6,0
+Niger Republic,1,0
+Nigeria,1,0
+Norfolk Island,11.5,1
+North Korea,9,0
+Norway,1,1
+Oman,4,0
+Pakistan,5,0
+Palau,9,0
+Republic Of Panama,-5,0
+Papua New Guinea,10,0
+Paraguay,-4,1
+Peru,-5,0
+Philippines,8,0
+Poland,1,1
+Portugal,1,1
+Puerto Rico,-4,0
+Qatar,3,0
+Reunion Island,4,1
+Romania,2,1
+Russia Central 1,4,1
+Russia Central 2,7,1
+Russia East,11,1
+Russia West,2,1
+Rwanda,2,0
+Saba,-4,1
+Samoa,-11,0
+San Marino,1,1
+Sao Tome,0,1
+Saudi Arabia,3,0
+Senegal,0,0
+Seychelles Islands,4,0
+Sierra Leone,0,0
+Singapore,8,0
+Slovakia,1,1
+Slovenia,1,1
+Solomon Islands,11,0
+Somalia,3,0
+South Africa,2,0
+South Korea,9,0
+Spain,1,1
+Sri Lanka,5.5,0
+St Lucia,-4,0
+St Maarteen,-4,1
+St Pierre & Miquelon,-3,1
+St Thomas,-4,1
+St Vincent,-4,1
+Sudan,2,0
+Suriname,-3,0
+Swaziland,2,0
+Sweden,1,1
+Switzerland,1,1
+Syria,2,1
+Taiwan,8,0
+Tajikistan,6,0
+Tanzania,3,0
+Thailand,7,0
+Togo,0,0
+Tonga Islands,13,1
+Trinidad and Tobago,-4,0
+Tunisia,1,1
+Turkey,2,1
+Turkmenistan,5,0
+Turks and Caicos,-5,1
+Tuvalu,12,1
+Uganda,3,0
+Ukraine,2,1
+United Arab Emirates,4,0
+United Kingdom,0,1
+Uruguay,-3,1
+USA Alaska,-9,1
+USA Central,-6,1
+USA Eastern,-5,1
+USA Hawaii,-10,1
+USA Mountain,-7,1
+USA Pacific,-8,1
+Uzbekistan,5,0
+Vanuatu,11,1
+Vatican City,1,1
+Venezuela,-4,0
+Vietnam,7,0
+Wallis And Futuna Islands,12,1
+Yemen,3,0
+Yugoslavia,1,1
+Zaire,2,1
+Zambia,2,0
+Zimbabwe,2,0

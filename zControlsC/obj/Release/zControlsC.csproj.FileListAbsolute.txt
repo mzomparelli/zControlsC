@@ -1,0 +1,86 @@
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\zControlsC.csproj.GenerateResource.Cache
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\bin\Release\zControlsC.dll
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\bin\Release\zControlsC.pdb
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\zControlsC.dll
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\zControlsC.pdb
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\obj\Release\zControlsC.csproj.ResolveComReference.cache
+Z:\Visual Basic\VB2008\zControlsC\zControlsC\bin\Release\ICSharpCode.SharpZipLib.dll
+Z:\C\zControlsC\zControlsC\bin\Release\zControlsC.dll
+Z:\C\zControlsC\zControlsC\bin\Release\zControlsC.pdb
+Z:\C\zControlsC\zControlsC\bin\Release\ICSharpCode.SharpZipLib.dll
+Z:\C\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+Z:\C\zControlsC\zControlsC\obj\Release\zControlsC.csproj.ResolveComReference.cache
+Z:\C\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+Z:\C\zControlsC\zControlsC\obj\Release\zControlsC.csproj.GenerateResource.Cache
+Z:\C\zControlsC\zControlsC\obj\Release\zControlsC.dll
+Z:\C\zControlsC\zControlsC\obj\Release\zControlsC.pdb
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zLineChart.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zMapChart.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.Form1.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.InputBox.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zLabel.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zNavigatorTree.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zQueryFilter.resources
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.csproj.GenerateResource.Cache
+Z:\Source Code\C\zControlsC\zControlsC\obj\Release\zControlsC.dll.licenses
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zLineChart.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zMapChart.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Form1.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.InputBox.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zLabel.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zNavigatorTree.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zQueryFilter.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.csproj.GenerateResource.Cache
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.dll.licenses
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Release\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Release\zControlsC.pdb
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Release\C1.C1Excel.2.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Release\ICSharpCode.SharpZipLib.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zLineChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zMapChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Form1.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.InputBox.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zLabel.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zNavigatorTree.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zQueryFilter.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.csproj.GenerateResource.Cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.dll.licenses
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.pdb
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Release\zControlsC.dll
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Release\zControlsC.pdb
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Release\C1.C1Excel.2.dll
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Release\zControlsC.pdb
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zControls.mdf
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zControls_log.ldf
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zControlsC.dll.config
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zControlsC.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zControlsC.pdb
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\C1.C1Zip.2.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release\zExcel.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zLineChart.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.Charts.zMapChart.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.Form1.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.Properties.Resources.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.InputBox.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zField.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zLabel.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.UI_Controls.zQueryFilter.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\ResGen.read.1.tlog
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\ResGen.write.1.tlog
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Release\zControlsC.pdb

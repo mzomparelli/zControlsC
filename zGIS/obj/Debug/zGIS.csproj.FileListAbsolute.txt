@@ -1,0 +1,2 @@
+C:\Dropbox\Source Code\z\zControlsC\zGIS\obj\Debug\zControlsC.Charts.zMapChart.resources
+C:\Dropbox\Source Code\z\zControlsC\zGIS\obj\Debug\zGIS.csproj.GenerateResource.Cache

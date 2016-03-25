@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{89644047-84E8-43A3-AA47-6ECB2FC6A3EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zControlsC</RootNamespace>
+    <AssemblyName>zControlsC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>zControlsC.pfx</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisRules>-Microsoft.Design#CA2210;-Microsoft.Design#CA1020;-Microsoft.Naming#CA1709;-Microsoft.Naming#CA1707</CodeAnalysisRules>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>CODE_ANALYSIS;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisRules>-Microsoft.Design#CA2210;-Microsoft.Design#CA1020;-Microsoft.Naming#CA1709;-Microsoft.Naming#CA1707</CodeAnalysisRules>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analyze\AnalysisFunctions.cs" />
+    <Compile Include="Charts\zLine.cs" />
+    <Compile Include="Charts\zLineChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Charts\zLineChart.Designer.cs">
+      <DependentUpon>zLineChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zConversion.cs" />
+    <Compile Include="DataConnections\AccessDBConn.cs">
+    </Compile>
+    <Compile Include="DataConnections\ACE_AccessDBConn.cs" />
+    <Compile Include="DataConnections\ACE_ExcelConn.cs" />
+    <Compile Include="DataConnections\dbf_DBConn.cs" />
+    <Compile Include="DataConnections\MSAccess_Functions.cs" />
+    <Compile Include="DataConnections\SQLServerConn.cs" />
+    <Compile Include="Drawing\Shapes.cs" />
+    <Compile Include="Encryption\EncryptFiles.cs" />
+    <Compile Include="Encryption\EncryptStrings.cs" />
+    <Compile Include="Encryption\RijndaelEnhanced.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zFunctions.cs" />
+    <Compile Include="zHTMLEmailSignatures.cs" />
+    <Compile Include="zMail.cs" />
+    <Compile Include="PCMILER\PCM.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="zRandom.cs" />
+    <Compile Include="Regex.cs" />
+    <Compile Include="zSerialization.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="UI_Controls\frmDatePrompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\frmDatePrompt.Designer.cs">
+      <DependentUpon>frmDatePrompt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Controls\GifImage.cs" />
+    <Compile Include="UI_Controls\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\zField.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\zField.Designer.cs">
+      <DependentUpon>zField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Controls\zLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\zLabel.Designer.cs">
+      <DependentUpon>zLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Controls\zNavigatorTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\zNavigatorTree.Designer.cs">
+      <DependentUpon>zNavigatorTree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Controls\zQueryFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_Controls\zQueryFilter.Designer.cs">
+      <DependentUpon>zQueryFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Controls\zTreeNode.cs" />
+    <Compile Include="UI_Controls\zTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WindowsAPI\Win32.cs" />
+    <Compile Include="Zip\ZipStorer.cs" />
+    <Compile Include="zSchedulerReportFile.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Charts\zLineChart.resx">
+      <DependentUpon>zLineChart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\frmDatePrompt.resx">
+      <DependentUpon>frmDatePrompt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\zField.resx">
+      <DependentUpon>zField.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\zLabel.resx">
+      <DependentUpon>zLabel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\zNavigatorTree.resx">
+      <DependentUpon>zNavigatorTree.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Controls\zQueryFilter.resx">
+      <DependentUpon>zQueryFilter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ICSharpCode.SharpZipLib.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="A.xlsx" />
+    <None Include="C1.C1Excel.2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Round_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Round_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Round_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Round_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Arrow_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Ball Purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallOrange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallPink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallSilver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\BallYellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Check_Round_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Check_Round_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\contact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\folderClosed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\folderOpen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\GreenCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\GreenPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\home1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Lightbulb_Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Lightbulb_On.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\offline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\PaperClip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Smiley6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\StarGold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Left_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Down_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Left_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Left_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Right_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Right_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Right_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Up_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Blue_Up_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Round_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Round_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Round_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Round_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Pink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Silver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball_Yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check_Round_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check_Round_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_Female_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_Female_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_Female_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_Male_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_Male_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folderClosed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folderOpen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lightbulb_Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lightbulb_On.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail_Closed_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail_Closed_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail_Opened_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail_Opened_Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\offline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaperClip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smiley6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarGold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C1.C1Zip.2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C1.Win.C1FlexGrid.2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="C1.C1Pdf.2.dll" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NorthAmerica_States3.geo" />
+    <None Include="Resources\TimeZones By Country.txt" />
+    <None Include="Resources\TimeZones_Menlo_Codes.txt" />
+    <None Include="Resources\TimeZones By Country1.txt" />
+    <None Include="Resources\TimeZones_Menlo_Codes1.txt" />
+    <None Include="Resources\US_3Zip_CenterPoints.geo" />
+    <None Include="zControlsC.pfx" />
+    <None Include="zControlsC.snk" />
+    <None Include="Resources\zExcel.dll" />
+    <None Include="bin\Release\FarPoint.Excel.dll" />
+    <None Include="bin\Debug\FarPoint.Win.Spread.dll" />
+    <None Include="Resources\FarPoint.Win.dll" />
+    <None Include="Emailer.exe" />
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="zControls.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zControls_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>zControls.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

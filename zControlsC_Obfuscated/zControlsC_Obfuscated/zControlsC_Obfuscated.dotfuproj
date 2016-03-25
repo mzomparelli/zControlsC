@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Dotfuscate">
+  <PropertyGroup>
+    <DotfuscatorBinPath>$(MSBuildExtensionsPath)\PreEmptive\Dotfuscator\4.0</DotfuscatorBinPath>
+    <DotfuscatorDataPath>$(MSBuildExtensionsPath)\PreEmptive\Dotfuscator\4.0</DotfuscatorDataPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>4.0</ProductVersion>
+    <SchemaVersion>2.1</SchemaVersion>
+    <ProjectGuid>{52ec4438-4a2c-4924-b2f1-9a54cb130898}</ProjectGuid>
+    <ConfigPath>$(Configuration)\Dotfuscator.xml</ConfigPath>
+    <OutputPath>$(Configuration)</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VSConfigurationCount>2</VSConfigurationCount>
+    <VSConfiguration0>Debug</VSConfiguration0>
+    <VSConfiguration1>Release</VSConfiguration1>
+  </PropertyGroup>
+  <ItemGroup>
+    <InputAssembly Include="..\..\zControlsC\obj\$(Configuration)\zControlsC.dll">
+      <InputAssemblyType>DynamicProjectOutput</InputAssemblyType>
+      <ProjectGuid>{89644047-84e8-43a3-aa47-6ecb2fc6a3eb}</ProjectGuid>
+      <ProjectUniqueName>zControlsC\zControlsC.csproj</ProjectUniqueName>
+      <ProjectDisplayName>zControlsC</ProjectDisplayName>
+      <InputAssemblyFileName>zControlsC.dll</InputAssemblyFileName>
+      <OutputGroupCanonicalName>Built</OutputGroupCanonicalName>
+      <OutputGroupDisplayName>Primary output</OutputGroupDisplayName>
+      <OutputConfiguration>$(Configuration)</OutputConfiguration>
+    </InputAssembly>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\zControlsC\zControlsC.csproj">
+      <Project>{89644047-84e8-43a3-aa47-6ecb2fc6a3eb}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(DotfuscatorDataPath)\PreEmptive.Dotfuscator.Targets" />
+</Project>

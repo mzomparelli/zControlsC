@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <global>
+    <option>debug</option>
+  </global>
+  <input>
+    <asmlist>
+      <inputassembly>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="${active8964404784e843a3aa476ecb2fc6a3eb}" name="zControlsC.dll" />
+        <loadpaths>
+          <file dir="${configdir}\..\..\..\zControlsC\bin\Debug\" />
+        </loadpaths>
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Release" />
+  </output>
+  <renaming>
+    <option>disable</option>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="map.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+  <controlflow level="high" />
+  <stringencrypt />
+  <codeprotection />
+  <removal />
+  <licensing>
+    <permutation name="" />
+    <product versionmask="revision" />
+    <nolicenseaction name="showactivation" />
+    <unlockingfeature name="" />
+  </licensing>
+</dotfuscator>

@@ -1,0 +1,201 @@
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\C1.C1Excel.2.dll
+E:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\C1.C1Excel.2.dll
+J:\SourceCode\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+J:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+E:\SourceCode\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Excel.2.dll
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\Users\Michael Zomparelli\Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls.mdf
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Excel.2.dll
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Zip.2.dll
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\Documents and Settings\mxzomparelli\My Documents\My Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls.mdf
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Zip.2.dll
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\bin\Debug\zExcel.dll
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\Documents and Settings\mxzomparelli\My Documents\Dropbox\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls.mdf
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Zip.2.dll
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zExcel.dll
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+F:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Pdf.2.dll
+F:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Pdf.2.xml
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls.mdf
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Pdf.2.dll
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Zip.2.dll
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\zExcel.dll
+E:\Source Code\C#\zControlsC\zControlsC\bin\Debug\C1.C1Pdf.2.xml
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zMapChart.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Form1.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll.licenses
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+E:\Source Code\C#\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls.mdf
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls.mdf
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.csprojResolveAssemblyReference.cache
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\SD\Dropbox\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls.mdf
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\bin\Debug\zControls_log.ldf
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll.config
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.dll
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\bin\Debug\zControlsC.pdb
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.csprojResolveAssemblyReference.cache
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Charts.zLineChart.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.Properties.Resources.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.frmDatePrompt.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.InputBox.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zField.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zLabel.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zNavigatorTree.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.UI_Controls.zQueryFilter.resources
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.csproj.GenerateResource.Cache
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.dll
+C:\odrive\Amazon Cloud Drive\Source Code\z\zControlsC\zControlsC\obj\Debug\zControlsC.pdb
